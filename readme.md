@@ -20,6 +20,8 @@ You then want to open the main repository folder as an Rstudio project, and then
 
 The analysis is staged in thematic steps, where each step has a unique R script in the `/code/` folder.
 
+`00_init.R` Run this to install all required packages.
+
 `01_functions.R` defines custom functions. It only contains an expedient life expectancy function.
 
 `02_get_data.R` downloads two files from the INE website, one for underlying cause of death data, another for resident population estimates.
