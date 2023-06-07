@@ -1,6 +1,6 @@
 # Spanish life expectancy decomposition
 
-This repository contains R code to download and process data from the Spanish Instituto Nacional de Estadistica (INE). The tools used are catched using `renv`, such that the analysis will be exactly reproducible moving forward.
+This repository contains R code to download and process data from the Spanish Instituto Nacional de Estadistica (INE). The tools used are catched using `renv`, such that the analysis will be exactly reproducible moving forward. These materials have been created for a presentation on reproducible workflows with publicly available data, held 7 June, 2023 for RSS Glagow Local Group.
 
 ## Installation
 
