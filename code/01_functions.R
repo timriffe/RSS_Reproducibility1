@@ -1,4 +1,3 @@
-
 # this file contains any custom functions; 
 # well commented and documented, with a manifest.
 
